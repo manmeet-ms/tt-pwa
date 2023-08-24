@@ -6,11 +6,11 @@ export default {
       manifest: {
         // caches the assets/icons mentioned (assets/* includes all the assets present in your src/ directory) 
         includeAssets: ["favicon.ico", "apple-touch-icon.png", "assets/*"],
-        name: 'Sem 5 Time Table',
-        short_name: 'PWA Guide',
+        name: 'Time Table - 5th Semester',
+        short_name: 'Time Table',
         start_url: '/',
         background_color: '#ffffff',
-        theme_color: '#000000',
+        theme_color: '#111827',
         icons: [
           {
             src: '/images/icon-192x192.png',
