@@ -6,7 +6,7 @@ export default {
       manifest: {
         // caches the assets/icons mentioned (assets/* includes all the assets present in your src/ directory) 
         includeAssets: ["favicon.ico", "apple-touch-icon.png", "assets/*"],
-        name: 'Simplifying Progressive Web App (PWA) Development with Vite: A Beginners Guide',
+        name: 'Sem 5 Time Table',
         short_name: 'PWA Guide',
         start_url: '/',
         background_color: '#ffffff',
