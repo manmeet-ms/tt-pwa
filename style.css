@@ -8,5 +8,6 @@ table, tr,td, th{
 }
 
 tr,td, th{
+    color: #111827;
     font-size: 14px;
 }
