@@ -10,4 +10,4 @@ time.style.left="0"
 time.style.background="#111827"
 time.style.color="#fff"
 }
-console.log("29347wfdfdsjn");
+console.log("Script is working.");

@@ -9,7 +9,7 @@ export default {
         name: 'Time Table - 5th Semester',
         short_name: 'Time Table',
         start_url: '/',
-        background_color: '#ffffff',
+        background_color: '#111827',
         theme_color: '#111827',
         icons: [
           {
