@@ -8,9 +8,9 @@ export default {
             },
             includeAssets: ["**/*.png"],
             manifest: {
-                name: "5学期",
+                name: "Time Table",
                 start_url: "/",
-                short_name: "5学期",
+                short_name: "Time Table - 5th Sem",
                 description: "5 Semester Schedule",
                 icons: [
                     {
