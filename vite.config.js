@@ -10,8 +10,8 @@ export default {
             manifest: {
                 name: "Time Table",
                 start_url: "/",
-                short_name: "Time Table - 5th Sem",
-                description: "5 Semester Schedule",
+                short_name: "Time Table - 6th Sem",
+                description: "6 Semester Schedule",
                 icons: [
                     {
                         src: "favicon.png",
